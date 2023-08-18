@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/04 22:01:38.000.208,=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/04 22:47:46.000.107,C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\principal.pas=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/04 22:47:46.000.107,C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\principal.dfm=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/04 22:48:07.000.723,C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\Calculo_Salario.dproj=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/04 22:49:36.000.829,=C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\Unit1.pas</Transaction>
+    <Transaction>2023/04/04 22:49:46.000.014,C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\inss.pas=C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\Unit1.pas</Transaction>
+    <Transaction>2023/04/07 00:56:31.000.456,=C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\Unit1.pas</Transaction>
+    <Transaction>2023/04/07 00:56:51.000.925,C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\IR.pas=C:\Users\Matheus\Documents\treinos_delphi\Calculo_salario\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
